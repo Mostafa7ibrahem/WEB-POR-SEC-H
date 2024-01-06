@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>مواصفات المنتج</title>
+  <link rel="stylesheet" href="New Text Document (2).css">
+</head>
+<body>
+  <div class="container">
+    <h1>مواصفات المنتج</h1>
+    <div class="product">
+      <img src="product-image.jpg" alt="صورة المنتج">
+      <h2>اسم المنتج</h2>
+      <p>وصف مختصر للمنتج</p>
+      <ul>
+        <li>اللون: أسود</li>
+        <li>الحجم: كبير</li>
+        <li>السعر: 100 ريال</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
